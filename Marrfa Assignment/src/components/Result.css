@@ -1,0 +1,16 @@
+.result-list {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.result-item {
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.no-result {
+  font-size: 18px;
+  color: #666;
+}
